@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+data_processed/
+
+# Models
+artifacts/
+
+# Outputs
+*.png
